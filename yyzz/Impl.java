@@ -5,7 +5,7 @@ public class Impl {
         Linkimpl<String> link = new Linkimpl<String>();
         link.add("null");
         link.add("fucking deep");
-        link.add("TESTESTS");
+        link.add("TESTESTest");
         link.add("ZTXD");
         System.out.println(link.getCount());
     }
